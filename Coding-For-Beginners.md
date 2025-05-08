@@ -1,40 +1,80 @@
-## 📅 Weekly Learning Schedule
+# 🚀 3-Month Complete Tech Foundations Roadmap
 
-| Week | Topics                                                                                         | Learning Resources                                                                                                                                                                                                         | Practice                                                                                                                                                                                  |
-| ---- | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1    | 🧮 Programming Basics & Time Complexity <br>- Variables, loops, recursion <br>- Big O Notation | [Khan Academy - Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) <br> [GeeksforGeeks - Asymptotic Analysis](https://www.geeksforgeeks.org/analysis-of-algorithms-set-1-asymptotic-analysis/) | [HackerRank - 10 Days of JavaScript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) <br> [LeetCode - Easy Set](https://leetcode.com/problemset/all/?difficulty=Easy) |
-| 2    | 📊 Arrays & Strings <br>- 1D/2D arrays, sliding window <br>- String manipulation techniques    | [LeetCode - Arrays 101](https://leetcode.com/explore/learn/card/fun-with-arrays/) <br> [GFG - String Data Structures](https://www.geeksforgeeks.org/string-data-structure/)                                                | [LeetCode Array Tag](https://leetcode.com/tag/array/) <br> [HackerRank - Arrays](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)                                      |
-| 3    | 🔍 Searching & Sorting <br>- Linear, Binary Search <br>- Bubble, Selection, Insertion Sort     | [Khan Academy - Binary Search](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search) <br> [GFG - Sorting Algorithms](https://www.geeksforgeeks.org/sorting-algorithms/)         | [LeetCode Sorting Problems](https://leetcode.com/tag/sorting/)                                                                                                                            |
-| 4    | 🔗 Linked Lists <br>- Singly, Doubly Linked List <br>- Reversal & Insertion                    | [GFG - Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/) <br> [YouTube - Apna College Linked List](https://www.youtube.com/watch?v=njTh_OwMljA)                                                     | [LeetCode Linked List](https://leetcode.com/tag/linked-list/)                                                                                                                             |
-| 5    | 📥 Stacks & Queues <br>- Stack & Queue basics <br>- Applications in recursion, parsing         | [GFG - Stack](https://www.geeksforgeeks.org/stack-data-structure/) <br> [Educative Stack vs Queue](https://www.educative.io/edpresso/stack-vs-queue)                                                                       | [LeetCode Stack Problems](https://leetcode.com/tag/stack/)                                                                                                                                |
-| 6    | 🧠 Hash Maps & Hash Sets <br>- Hash Functions, Collisions <br>- Dictionary/Map Use Cases       | [GFG - Hashing](https://www.geeksforgeeks.org/hashing-data-structure/) <br> [Programiz - Hash Table](https://www.programiz.com/dsa/hash-table)                                                                             | [LeetCode Hash Table](https://leetcode.com/tag/hash-table/)                                                                                                                               |
-| 7    | 🔄 Recursion & Backtracking <br>- Recursive Thinking <br>- N-Queens, Subsets                   | [GFG - Recursion](https://www.geeksforgeeks.org/recursion/) <br> [YouTube - Backtracking by Striver](https://www.youtube.com/watch?v=DKCbsiDBN6c)                                                                          | [LeetCode Recursion Problems](https://leetcode.com/tag/recursion/)                                                                                                                        |
-| 8    | 🌳 Trees & Binary Trees <br>- Traversals (DFS, BFS) <br>- Binary Search Trees                  | [GFG - Binary Tree](https://www.geeksforgeeks.org/binary-tree-data-structure/) <br> [YT - Binary Tree by TUF](https://www.youtube.com/watch?v=oSWTXtMglKE)                                                                 | [LeetCode Tree Tag](https://leetcode.com/tag/tree/)                                                                                                                                       |
-| 9    | 🧱 Heaps & Priority Queues <br>- Min/Max Heap <br>- Top K Elements                             | [GFG - Heap DS](https://www.geeksforgeeks.org/heap-data-structure/) <br> [Programiz - Heap](https://www.programiz.com/dsa/heap-data-structure)                                                                             | [LeetCode Heap Problems](https://leetcode.com/tag/heap/)                                                                                                                                  |
-| 10   | 🔗 Graphs <br>- Adjacency List/Matrix <br>- DFS, BFS, Dijkstra                                 | [GFG - Graph DS](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/) <br> [YT - Graph Algorithms by Abdul Bari](https://www.youtube.com/watch?v=pcKY4hjDrxk)                                               | [LeetCode Graph Problems](https://leetcode.com/tag/graph/)                                                                                                                                |
-| 11   | 📈 Dynamic Programming (DP) <br>- Memoization, Tabulation <br>- Fibonacci, Knapsack            | [GFG - Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/) <br> [YT - DP by Aditya Verma](https://www.youtube.com/watch?v=tyB0ztf0DNY)                                                                | [LeetCode DP Problems](https://leetcode.com/tag/dynamic-programming/)                                                                                                                     |
-| 12   | 🔁 Revision & Mock Interviews <br>- Mixed Problems <br>- Simulate Interviews                   | [NeetCode 150 Sheet](https://neetcode.io/practice) <br> [Tech Interview Handbook](https://www.techinterviewhandbook.org/)                                                                                                  | [LeetCode Mixed](https://leetcode.com/problemset/all/) <br> [HackerRank Interview Prep Kit](https://www.hackerrank.com/interview/interview-preparation-kit)                               |
+👩‍💻 Ideal For: Engineering Students  
+📆 Duration: 12 Weeks  
+🌐 Covers: Programming + DSA + Web Development + AI/ML Fundamentals  
+💰 Cost: 100% Free Resources  
 
 ---
 
-## 🔧 Tools & Platforms You’ll Use
+## 📌 Overview
 
-* 👨‍💻 Code Practice: [LeetCode](https://leetcode.com), [HackerRank](https://hackerrank.com), [Codeforces](https://codeforces.com)
-* 🎓 Learning: [GeeksforGeeks](https://geeksforgeeks.org), [YouTube: Take U Forward](https://www.youtube.com/c/TakeUForward), [Apna College](https://www.youtube.com/c/ApnaCollegeOfficial)
-* 📚 Books (Optional):
-
-  * DSA Made Easy by Yashavant Kanetkar (For Hindi readers)
-  * Introduction to Algorithms by Cormen (Advanced)
+| Month | Focus Area |
+|-------|------------|
+| Month 1 | Programming + DSA till Stacks & Queues |
+| Month 2 | Web Development Basics |
+| Month 3 | AI/ML Fundamentals |
 
 ---
 
-## ✍️ Study Tips
+## 📅 Weekly Detailed Plan
 
-| Tip                    | Details                                                     |
-| ---------------------- | ----------------------------------------------------------- |
-| ⏰ Consistency          | Study daily for 1–2 hours and stay on track with the plan.  |
-| 🤔 Practice > Watching | Spend 60%+ time solving problems, not just watching videos. |
-| 💬 Ask Questions       | Use StackOverflow, Reddit, or Discord coding communities.   |
-| 🔄 Revise Weekly       | Reserve Sundays for revising the past week's concepts.      |
-| 🧪 Mock Interviews     | Use [Pramp](https://www.pramp.com/) or pair up with peers.  |
+### Month 1: Programming + Basic DSA
+
+| Week | Topics | Goals | Resources |
+|------|--------|-------|-----------|
+| 1 | Programming Basics | Variables, Loops, Functions, Input/Output | [CS50x](https://cs50.harvard.edu/x/), [freeCodeCamp Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/) |
+| 2 | Arrays & Strings | 1D Arrays, 2D Arrays, String Manipulation | [GFG Arrays](https://www.geeksforgeeks.org/arrays-in-c-cpp/), [Strings](https://www.geeksforgeeks.org/strings-in-cpp/) |
+| 3 | Linked Lists | Singly & Doubly Linked List, Reversal | [Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/) |
+| 4 | Stacks & Queues | Stack (LIFO), Queue (FIFO), Applications | [Stack](https://www.geeksforgeeks.org/stack-data-structure/), [Queue](https://www.geeksforgeeks.org/queue-data-structure/) |
+
+---
+
+### Month 2: Web Development Fundamentals
+
+| Week | Topics | Goals | Resources |
+|------|--------|-------|-----------|
+| 5 | HTML & CSS | Build static pages with HTML5 & CSS3 | [freeCodeCamp HTML & CSS](https://www.freecodecamp.org/learn/) |
+| 6 | JavaScript Basics | DOM, Events, Functions, Loops | [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide), [JS for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg) |
+| 7 | Responsive Design & Projects | Flexbox, Grid, Responsive Layout | [Flexbox Froggy](https://flexboxfroggy.com/), [CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) |
+| 8 | React.js Basics | Components, Props, State | [React Docs](https://reactjs.org/docs/getting-started.html), [freeCodeCamp React Course](https://www.youtube.com/watch?v=bMknfKXIFA8) |
+
+---
+
+### Month 3: AI & ML Fundamentals
+
+| Week | Topics | Goals | Resources |
+|------|--------|-------|-----------|
+| 9 | Python for Data | NumPy, Pandas, DataFrames | [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/), [Kaggle Python](https://www.kaggle.com/learn/python) |
+| 10 | Matplotlib & Seaborn | Visualization of Data | [Kaggle Visualization Course](https://www.kaggle.com/learn/data-visualization) |
+| 11 | Machine Learning Basics | Supervised Learning, Train/Test, sklearn | [ML Crash Course by Google](https://developers.google.com/machine-learning/crash-course), [Kaggle Intro to ML](https://www.kaggle.com/learn/intro-to-machine-learning) |
+| 12 | Mini Project Week | Predictive Model / Portfolio Site / Quiz Game | Build using learned skills, deploy on GitHub or Netlify |
+
+---
+
+## 💡 Tools & Platforms
+
+| Tool | Use |
+|------|-----|
+| Git & GitHub | Version control & project hosting — [GitHub Docs](https://docs.github.com/en/get-started) |
+| Replit | Online IDE for Python/JavaScript — [replit.com](https://replit.com) |
+| CodePen | Frontend playground for HTML/CSS/JS — [codepen.io](https://codepen.io) |
+| Kaggle | AI/ML practice & courses — [kaggle.com](https://kaggle.com) |
+
+---
+
+## 📌 Final Notes
+
+- ⏰ Minimum Commitment: 2-3 hours per day
+- ✅ Practice DSA weekly on [LeetCode](https://leetcode.com/) or [HackerRank](https://www.hackerrank.com/)
+- 💬 Join Discord/Reddit Study Communities for discussions
+- 📄 Keep notes or a Notion page to track what you learn
+
+---
+
+🎯 By the end of 12 weeks, you'll be confident in:
+- Writing clean code
+- Solving beginner-intermediate DSA problems
+- Creating responsive websites
+- Understanding core AI/ML workflows
 
