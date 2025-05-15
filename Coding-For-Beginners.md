@@ -1,13 +1,8 @@
-# 🚀 3-Month Complete Tech Foundations Roadmap
-
-👩‍💻 Ideal For: Engineering Students  
-📆 Duration: 12 Weeks  
-🌐 Covers: Programming + DSA + Web Development + AI/ML Fundamentals  
-💰 Cost: 100% Free Resources  
+# 3 Month Roadmap For Foundation in Coding
 
 ---
 
-## 📌 Overview
+## Our Targets
 
 | Month | Focus Area |
 |-------|------------|
@@ -17,7 +12,7 @@
 
 ---
 
-## 📅 Weekly Detailed Plan
+## Weekly Detailed Plan
 
 ### Month 1: Programming + Basic DSA
 
@@ -58,7 +53,7 @@
 ---
 
 
-### 🧠 Complete 12-Week DSA Roadmap (with Curated Resources)
+### Complete 12-Week DSA Roadmap (with Curated Resources)
 
 | **Week** | **Topics**               | **Goals**                                                                                | **Resources**                                                                                                                                                            |
 | -------- | ------------------------ | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -77,7 +72,7 @@
 
 ---
 
-## 💡 Tools & Platforms
+## Platforms
 
 | Tool | Use |
 |------|-----|
@@ -88,7 +83,7 @@
 
 ---
 
-## 📌 Final Notes
+## Zaroori Points
 
 - ⏰ Minimum Commitment: 2-3 hours per day
 - ✅ Practice DSA weekly on [LeetCode](https://leetcode.com/) or [HackerRank](https://www.hackerrank.com/)
@@ -97,7 +92,7 @@
 
 ---
 
-🎯 By the end of 12 weeks, you'll be confident in:
+By the end of 12 weeks, you'll be confident in:
 - Writing clean code
 - Solving beginner-intermediate DSA problems
 - Creating responsive websites
