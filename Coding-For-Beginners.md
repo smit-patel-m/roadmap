@@ -21,14 +21,19 @@
 
 ### Month 1: Programming + Basic DSA
 
-| Week | Topics | Goals | Resources |
-|------|--------|-------|-----------|
-| 1 | Programming Basics | Variables, Loops, Functions, Input/Output | [CS50x](https://cs50.harvard.edu/x/), [freeCodeCamp Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/) |
-| 2 | Arrays & Strings | 1D Arrays, 2D Arrays, String Manipulation | [GFG Arrays](https://www.geeksforgeeks.org/arrays-in-c-cpp/), [Strings](https://www.geeksforgeeks.org/strings-in-cpp/) |
-| 3 | Linked Lists | Singly & Doubly Linked List, Reversal | [Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/) |
-| 4 | Stacks & Queues | Stack (LIFO), Queue (FIFO), Applications | [Stack](https://www.geeksforgeeks.org/stack-data-structure/), [Queue](https://www.geeksforgeeks.org/queue-data-structure/) |
+**complete roadmap** for mastering Data Structures and Algorithms (DSA) along with **correct and well-structured resources**, assuming a **12-week learning plan** ideal for beginners to intermediate learners:
+
+| Week | Topics             | Goals                                     | Resources                                                                                                                         |
+| ---- | ------------------ | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | Programming Basics | Variables, Loops, Functions, Input/Output | [CS50x](https://cs50.harvard.edu/x/), [freeCodeCamp Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/) |
+| 2    | Arrays & Strings   | 1D Arrays, 2D Arrays, String Manipulation | [GFG Arrays](https://www.geeksforgeeks.org/arrays-in-c-cpp/), [Strings](https://www.geeksforgeeks.org/strings-in-cpp/)            |
+| 3    | Linked Lists       | Singly & Doubly Linked List, Reversal     | [Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/)                                                         |
+| 4    | Stacks & Queues    | Stack (LIFO), Queue (FIFO), Applications  | [Stack](https://www.geeksforgeeks.org/stack-data-structure/), [Queue](https://www.geeksforgeeks.org/queue-data-structure/)        |
+
+
 
 ---
+
 
 ### Month 2: Web Development Fundamentals
 
@@ -49,6 +54,26 @@
 | 10 | Matplotlib & Seaborn | Visualization of Data | [Kaggle Visualization Course](https://www.kaggle.com/learn/data-visualization) |
 | 11 | Machine Learning Basics | Supervised Learning, Train/Test, sklearn | [ML Crash Course by Google](https://developers.google.com/machine-learning/crash-course), [Kaggle Intro to ML](https://www.kaggle.com/learn/intro-to-machine-learning) |
 | 12 | Mini Project Week | Predictive Model / Portfolio Site / Quiz Game | Build using learned skills, deploy on GitHub or Netlify |
+
+---
+
+
+### 🧠 Complete 12-Week DSA Roadmap (with Curated Resources)
+
+| **Week** | **Topics**               | **Goals**                                                                                | **Resources**                                                                                                                                                            |
+| -------- | ------------------------ | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1        | Programming Basics       | Variables, data types, loops, functions, input/output, conditionals                      | [CS50x](https://cs50.harvard.edu/x/), [freeCodeCamp Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)                                        |
+| 2        | Arrays & Strings         | 1D & 2D arrays, string manipulation, common problems like reversal, palindrome           | [GFG Arrays](https://www.geeksforgeeks.org/arrays-in-c-cpp/), [GFG Strings](https://www.geeksforgeeks.org/strings-in-cpp/)                                               |
+| 3        | Linked Lists             | Singly & doubly linked list, insertion/deletion, reversal                                | [GFG Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/), [NeetCode LL](https://neetcode.io/practice)                                               |
+| 4        | Stacks & Queues          | Stack (LIFO), Queue (FIFO), circular queue, problems like balancing symbols              | [GFG Stack](https://www.geeksforgeeks.org/stack-data-structure/), [GFG Queue](https://www.geeksforgeeks.org/queue-data-structure/)                                       |
+| 5        | Recursion & Backtracking | Recursion basics, tail recursion, backtracking problems (N-Queens, Maze)                 | [GFG Recursion](https://www.geeksforgeeks.org/recursion/), [Backtracking](https://www.geeksforgeeks.org/backtracking-introduction/)                                      |
+| 6        | Searching & Sorting      | Binary search, linear search, bubble/merge/quick/heap sort                               | [GFG Searching](https://www.geeksforgeeks.org/searching-algorithms/), [GFG Sorting](https://www.geeksforgeeks.org/sorting-algorithms/)                                   |
+| 7        | Hashing & HashMaps       | Hash tables, collision handling, unordered\_map/map, set, problems like 2-sum            | [GFG Hashing](https://www.geeksforgeeks.org/hashing-data-structure/), [NeetCode Hashing](https://neetcode.io/practice)                                                   |
+| 8        | Trees                    | Binary tree, BST, tree traversal, height, diameter, lowest common ancestor               | [GFG Trees](https://www.geeksforgeeks.org/binary-tree-data-structure/), [TakeUForward Trees](https://takeuforward.org/interviews/striver-sde-sheet-topics/)              |
+| 9        | Heaps & Priority Queue   | Min/max heap, heap sort, priority queue operations, problems like Top-K elements         | [GFG Heaps](https://www.geeksforgeeks.org/heap-data-structure/), [Priority Queue](https://www.geeksforgeeks.org/priority-queue-set-1-introduction/)                      |
+| 10       | Graphs                   | Graph representation, BFS, DFS, cycle detection, topological sort, Dijkstra’s algorithm  | [GFG Graphs](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/), [Abdul Bari Graphs](https://www.youtube.com/watch?v=9G3jZbsXjN8)                       |
+| 11       | Dynamic Programming      | Recursion to memoization/tabulation, Fibonacci, knapsack, LIS, DP on grids               | [GFG DP](https://www.geeksforgeeks.org/dynamic-programming/), [DP by Aditya Verma](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)             |
+| 12       | Greedy & Practice        | Greedy algorithms, Huffman encoding, activity selection, coding practice on LeetCode/GFG | [GFG Greedy](https://www.geeksforgeeks.org/greedy-algorithms/), [LeetCode Practice](https://leetcode.com/problemset/all/), [InterviewBit](https://www.interviewbit.com/) |
 
 ---
 
@@ -77,4 +102,6 @@
 - Solving beginner-intermediate DSA problems
 - Creating responsive websites
 - Understanding core AI/ML workflows
+
+![🚀 3-Month Complete Tech Foundations Roadmap - visual selection](https://github.com/user-attachments/assets/2b007489-b10d-40df-9931-539701cc40df)
 
